@@ -1,0 +1,1 @@
+// ini adalah script main.js anda
