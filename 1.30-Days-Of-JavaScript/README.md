@@ -43,3 +43,9 @@ Kita dapat menulis kode kita di konsol browser, tetapi itu tidak akan cocok untu
 #### Installing Visual Studio Code
 
 Visual Studio Code adalah editor teks open-source yang sangat populer. Saya akan merekomendasikan untuk [download Visual Studio Code](https://code.visualstudio.com/), tetapi jika Anda lebih memilih editor lain, silakan ikuti dengan apa yang Anda miliki.
+
+Jika Anda sudah menginstal Visual Studio Code, mari mulai menggunakannya.
+
+#### How to Use Visual Studio Code
+
+Buka Visual Studio Code dengan mengklik ikonnya dua kali. Ketika Anda membukanya, Anda akan mendapatkan antarmuka seperti ini. Cobalah untuk berinteraksi dengan ikon-ikon yang dilabeli.
